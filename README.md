@@ -1,2 +1,4 @@
 # Camanducrime
-Camanducaia ouuuuuu FEIJAO QUEIMADO! :)
+# Atividade de GitHub
+Este repositório foi criado para praticar versionamento.
+# Camanducaia ouuuuuu FEIJAO QUEIMADO! :);
