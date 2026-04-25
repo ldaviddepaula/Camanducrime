@@ -5,3 +5,9 @@ Este repositório foi criado para praticar versionamento.
 
 ## Nova feature
 Alteração feita na branch feature/teste.
+
+# Atividade de GitHub
+Este repositório foi criado para praticar versionamento.
+
+## 15199
+Seu RA: 15199
